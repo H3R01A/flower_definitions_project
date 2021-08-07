@@ -9,7 +9,6 @@ class HashMap:
   def __init__(self,size):
     self.array_size = size
     #Part 2, specifically:
-    #After that, create a list of None objects of length size and save it into self.array. 
     #Original code: self.array = [None for i in range(size)]
 
     #Part 13
