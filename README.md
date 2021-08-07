@@ -2,7 +2,7 @@
 
 project I worked on for CS102 from the codecademy Computer Science career path.
 
-Used Linkedlists and nodes to create a Hash Map of flowers and their respective definitions.
+Using, Python, Linkedlists and Nodes to create a Hash Map of flowers and their respective definitions.
 
  NOTE:
  
